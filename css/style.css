@@ -4,7 +4,7 @@ html{
 }
 /*body*/
 body{
-    background-image: url(../images/body.jpg);
+    background: url(../images/body.jpg) repeat;
     background-attachment:fixed;
     font-family: 'Noto Sans JP', sans-serif;
     line-height: 1.7;
